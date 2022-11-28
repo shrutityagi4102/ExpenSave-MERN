@@ -1,0 +1,36 @@
+.Navbar {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #22a7ff;
+}
+
+.Navbar>.nav-logo {
+    font-weight: 700;
+    font-size: 30px;
+    margin: 35px;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+
+.Navbar>.nav-items>a {
+    font-size: 16px;
+    font: bold;
+    text-decoration: none;
+    margin: 20px;
+    right: 30px;
+    position: relative;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.Navbar>.nav-items>a:hover {
+    opacity: 1;
+}
+
+.Shadow {
+    position: relative;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}

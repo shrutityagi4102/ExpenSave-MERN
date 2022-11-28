@@ -1,0 +1,62 @@
+.welcome-text {
+    margin-top: 6rem;
+    height: 2rem;
+}
+
+.text1 {
+    font-size: 3rem;
+    color: black;
+    padding-bottom: 3rem;
+    margin-left: 11.5rem;
+}
+
+.name {
+    margin-left: 1rem;
+}
+
+.see-more {
+    margin-left: 20rem;
+    margin-top: 4rem;
+    font-size: 1.5rem;
+}
+
+.budget-text {
+    /* padding-right:3rem; */
+    margin-bottom: 3rem !important;
+}
+
+.card1 {
+    margin-top: 4rem;
+    box-shadow: 1;
+    width: 120rem;
+    /* border; */
+    /* border: 1px solid; */
+    /* box-shadow: 15px 5px 5px 5px black; */
+    /* -moz-box-shadow: 0 0 5px #999;
+    -webkit-box-shadow: 0 0 5px #999;
+    box-shadow: 0 0 5px #999; */
+}
+
+.empty-div {
+    height: 0.5rem;
+}
+
+.box-top {
+    height: 14rem;
+}
+
+.inside-card {
+    margin-left: -11rem;
+}
+
+.head {
+    background-color: #e2f4ff;
+}
+
+.table-body {
+    height: 3rem;
+}
+
+.table-body{
+    font-size:30px
+}

@@ -1,0 +1,65 @@
+.im{
+    margin-top: 3rem;
+    width: 45rem;
+    height: 42rem;
+    display: inline-block; /* change the default display type to inline-block */
+    overflow: hidden;
+}
+
+.divFlex {
+    display: flex;
+    justify-content: center;
+    margin-left: 12.5vw;
+}
+
+/* .borderSignup {
+    width: auto;
+} */
+
+/* .dabba {
+    width: 50%;
+} */
+
+.padding {
+    padding: 10px 10px;
+    font-size: 1.5rem;
+}
+
+.marginTop {
+    margin-top: 40px;
+}
+
+.marginTopTop {
+    margin-top: 50px;
+}
+
+.marginMain {
+    margin-top: 15vh;
+}
+
+.divFlexColumn {
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+/* img{
+    padding-top: 100rem;
+    position: relative;
+    margin-top: 30rem;
+    width: 45rem;
+    height: 42rem;
+    display: inline-block; /* change the default display type to inline-block */
+    /* overflow: hidden;
+    top: 10rem;
+} */ 
+
+.padding {
+    font-size: 1.5rem !important;
+}
+
+.down-text {
+    margin-top: 3rem;
+}

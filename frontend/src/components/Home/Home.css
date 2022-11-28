@@ -1,0 +1,18 @@
+body {
+    overflow-y: hidden;
+  }
+
+.coin {
+    position: relative;
+    bottom: 10rem;
+    left: 12rem;
+}
+
+.imagesidetext {
+    position: relative;
+    bottom: 10rem;
+}
+
+img {
+    border-radius: 10%;
+  }

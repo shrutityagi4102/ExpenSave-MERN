@@ -1,0 +1,15 @@
+.button {
+    margin-top: 500px !important;
+}
+
+.title {
+    margin-bottom: 4rem;
+}
+
+.input-box input::placeholder {
+    font-size: x-large;
+  }
+
+  .card1 {
+    margin-top: 5rem;
+  }

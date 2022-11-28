@@ -1,0 +1,16 @@
+.table {
+    margin-left: 20rem;
+    margin-right: 5rem;
+    /* box-shadow: 199px; */
+    color: #25a8ff;
+}
+
+.header {
+    height: 2vh;
+    font-size: x-large;
+    /* margin-right: 2rem; */
+}
+
+.table-body {
+    background-color: #25a8ff !important;
+}
