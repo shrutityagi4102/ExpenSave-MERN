@@ -6,15 +6,12 @@ GitHub Repository Link of our FrontEnd for hosting : https://github.com/varshaah
 
 GitHub Repository Link of our BackEnd for hosting : https://github.com/varshaah2407/ExpenSave-Backend
 
-Drive Link of System Architectecture :
-
 ## Table of contents
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
-- [System Architecture](#system-architecture)
 - [Front End](#front-end)
-- [Fture Scope](#future-scope)
+- [Future Scope](#future-scope)
 - [Team](#team)
 
 ## Overview
@@ -36,11 +33,13 @@ Cash Flow Report : A detailed analysis of user's spendingd with visualisations m
 * Restful APIs were built using Node and Express which were integrated with a MongoDB database
 * Back End: Node.js and Express
 
-## System Architecture
-<img width="1011" alt="System Archi" src="">
-
 ## Front End
-<img width="1011" alt="Imagewise" src="">
+
+### Adding Expenses
+<img width="1011" alt="Imagewise" src="images/Screenshot 2022-11-28 at 2.42.41 PM.png">
+
+### Cash Flow Report
+<img width="1011" alt="Imagewise" src="images/Screenshot 2022-11-28 at 2.43.10 PM.png">
 
 ## Future Scope
 
