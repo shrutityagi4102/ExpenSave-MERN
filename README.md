@@ -6,6 +6,8 @@ GitHub Repository Link of our FrontEnd for hosting : https://github.com/varshaah
 
 GitHub Repository Link of our BackEnd for hosting : https://github.com/varshaah2407/ExpenSave-Backend
 
+Presentation : https://www.canva.com/design/DAE6yYjq4_g/AeKHyPf1-3bnUcP-1SPcVQ/view?utm_content=DAE6yYjq4_g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Table of contents
 
 - [Overview](#overview)
